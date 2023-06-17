@@ -1,5 +1,12 @@
 # NLog with ILogger and Microsoft SQL server sample
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_LoggerWithNLogSample&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_LoggerWithNLogSample)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_LoggerWithNLogSample&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_LoggerWithNLogSample)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_LoggerWithNLogSample&metric=bugs)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_LoggerWithNLogSample)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_LoggerWithNLogSample&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_LoggerWithNLogSample)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_LoggerWithNLogSample&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_LoggerWithNLogSample)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=PasinduUmayanga_LoggerWithNLogSample&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=PasinduUmayanga_LoggerWithNLogSample)
+
 [![Build status](https://ci.appveyor.com/api/projects/status/x6b6mkeirmj8s62u?svg=true)](https://ci.appveyor.com/project/Mahadenamuththa/loggerwithnlogsample)
 
 [![Build history](https://buildstats.info/appveyor/chart/Mahadenamuththa/loggerwithnlogsample)](https://ci.appveyor.com/project/Mahadenamuththa/loggerwithnlogsample/history)
