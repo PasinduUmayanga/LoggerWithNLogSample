@@ -1,6 +1,9 @@
 # NLog with ILogger and Microsoft SQL server sample
 
- 
+[![Build status](https://ci.appveyor.com/api/projects/status/x6b6mkeirmj8s62u?svg=true)](https://ci.appveyor.com/project/Mahadenamuththa/loggerwithnlogsample)
+
+[![Build history](https://buildstats.info/appveyor/chart/Mahadenamuththa/loggerwithnlogsample)](https://ci.appveyor.com/project/Mahadenamuththa/loggerwithnlogsample/history)
+
 ![1_E12ESeOFEBz-aB0PuyUIRQ](https://github.com/PasinduUmayanga/LoggerWithNLogSample/assets/21302583/3b1b865c-7451-478c-9abc-5393238c0e8a)
 
 ## Features
