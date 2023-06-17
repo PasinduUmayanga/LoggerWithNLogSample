@@ -10,7 +10,6 @@ namespace NLS.Common.LoggerServices
         {
             _logger.Debug(message);
         }
-
         public void LogError(Exception ex, string message = "")
         {
             LogEventInfo nlogEvent = LogEventInfo.Create(LogLevel.Error, _logger.Name.ToString(), ex, null, message, null);

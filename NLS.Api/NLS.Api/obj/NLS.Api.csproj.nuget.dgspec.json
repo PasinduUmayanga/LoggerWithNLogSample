@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\NLS.Api.csproj": {}
+    "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\NLS.Api.csproj": {}
   },
   "projects": {
-    "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\NLS.Api.csproj": {
+    "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\NLS.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\NLS.Api.csproj",
+        "projectUniqueName": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\NLS.Api.csproj",
         "projectName": "NLS.Api",
-        "projectPath": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\NLS.Api.csproj",
-        "packagesPath": "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\",
-        "outputPath": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\obj\\",
+        "projectPath": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\NLS.Api.csproj",
+        "packagesPath": "C:\\Users\\pasin\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Api\\NLS.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PasinduUmayanga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj": {
-                "projectPath": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj"
+              "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj": {
+                "projectPath": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj"
               }
             }
           }
@@ -68,21 +68,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj": {
+    "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj",
+        "projectUniqueName": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj",
         "projectName": "NLS.Common",
-        "projectPath": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj",
-        "packagesPath": "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\",
-        "outputPath": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\obj\\",
+        "projectPath": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj",
+        "packagesPath": "C:\\Users\\pasin\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PasinduUmayanga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -141,7 +141,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }

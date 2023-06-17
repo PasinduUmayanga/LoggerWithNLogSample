@@ -11,3 +11,16 @@ D:\Files\OLD PC\Git Hub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj
 D:\Files\OLD PC\Git Hub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\refint\NLS.Common.dll
 D:\Files\OLD PC\Git Hub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\NLS.Common.pdb
 D:\Files\OLD PC\Git Hub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\ref\NLS.Common.dll
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\bin\Debug\net6.0\nLog.config
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\bin\Debug\net6.0\NLS.Common.deps.json
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\bin\Debug\net6.0\NLS.Common.dll
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\bin\Debug\net6.0\NLS.Common.pdb
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\NLS.Common.csproj.AssemblyReference.cache
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\NLS.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\NLS.Common.AssemblyInfoInputs.cache
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\NLS.Common.AssemblyInfo.cs
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\NLS.Common.csproj.CoreCompileInputs.cache
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\NLS.Common.dll
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\refint\NLS.Common.dll
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\NLS.Common.pdb
+E:\Projects\GitHub Projects\NLogWithILoggerSample\NLS.Common\NLS.Common\obj\Debug\net6.0\ref\NLS.Common.dll

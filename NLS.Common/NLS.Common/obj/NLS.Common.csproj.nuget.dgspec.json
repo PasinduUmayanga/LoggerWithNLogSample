@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj": {}
+    "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj": {}
   },
   "projects": {
-    "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj": {
+    "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj",
+        "projectUniqueName": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj",
         "projectName": "NLS.Common",
-        "projectPath": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj",
-        "packagesPath": "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\",
-        "outputPath": "D:\\Files\\OLD PC\\Git Hub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\obj\\",
+        "projectPath": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\NLS.Common.csproj",
+        "packagesPath": "C:\\Users\\pasin\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\GitHub Projects\\NLogWithILoggerSample\\NLS.Common\\NLS.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PasinduUmayanga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }
